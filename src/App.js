@@ -1,6 +1,6 @@
 import "./App.css";
 import { useState } from "react";
-import { passwordValidator } from "./helper/validator";
+import { passwordValidator } from "./validator";
 import axios from "axios";
 
 function App() {
